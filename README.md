@@ -5,7 +5,7 @@ This repository contains R code and data for predicting hotel booking cancellati
 
 ##  File Description
  `report.R`  Main R script containing data processing, model training, and evaluation.
- `hotels.csv`  Dataset used for training the model.
+ `hotels.csv` Dataset used for training the model.
  `README.md`  This guide (usage instructions).
 
 ##  Run
